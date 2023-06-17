@@ -1,0 +1,12 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-c",
+      "client.c"
+    ],
+    "directory": "/home/ether-wind/Documents/MyCodes/OSprojects/Project5/threadPool",
+    "file": "/home/ether-wind/Documents/MyCodes/OSprojects/Project5/threadPool/client.c"
+  }
+]

@@ -1,0 +1,4 @@
+in.txt
+osh
+osh.c
+out.txt

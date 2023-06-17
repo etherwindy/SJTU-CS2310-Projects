@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-c",
+      "-o",
+      "schedule_priority_rr.o",
+      "schedule_priority_rr.c"
+    ],
+    "directory": "/home/ether-wind/Documents/MyCodes/OSprojects/Project4/posix",
+    "file": "/home/ether-wind/Documents/MyCodes/OSprojects/Project4/posix/schedule_priority_rr.c",
+    "output": "/home/ether-wind/Documents/MyCodes/OSprojects/Project4/posix/schedule_priority_rr.o"
+  }
+]

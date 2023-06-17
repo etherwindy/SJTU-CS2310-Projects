@@ -1,0 +1,22 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-c",
+      "main.c"
+    ],
+    "directory": "/home/ether-wind/Documents/MyCodes/OSprojects/Project5/producerConsumer",
+    "file": "/home/ether-wind/Documents/MyCodes/OSprojects/Project5/producerConsumer/main.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-c",
+      "buffer.c"
+    ],
+    "directory": "/home/ether-wind/Documents/MyCodes/OSprojects/Project5/producerConsumer",
+    "file": "/home/ether-wind/Documents/MyCodes/OSprojects/Project5/producerConsumer/buffer.c"
+  }
+]
